@@ -6,7 +6,7 @@
     "test":"none",
     "start-dev": "nodemon --config \"./nodemon.json\"/",
     "build": "rm -rf ./build/ && tsc",
-    "start": "node build/start.ts"
+    "start": "node build/app.js"
   },
   "dependencies": {
     "@overnightjs/core": "^1.6.12",
