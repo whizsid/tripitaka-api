@@ -3,9 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "test":"none",
+    "test": "none",
     "start-dev": "nodemon --config \"./nodemon.json\"/",
     "build": "rm -rf ./build/ && tsc",
+    "translate": "tsc src/translator.ts  --outDir build/ && node build/translator.js",
     "start": "node build/app.js"
   },
   "dependencies": {
@@ -20,8 +21,11 @@
   },
   "devDependencies": {
     "@types/express": "^4.17.2",
+    "@types/glob": "^7.1.1",
     "@types/node": "^13.1.7",
+    "glob": "^7.1.6",
     "nodemon": "^2.0.2",
+    "pofile": "^1.1.0",
     "ts-node": "^8.6.2",
     "tslint": "^5.20.1",
     "typescript": "^3.7.4"
