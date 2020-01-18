@@ -3,10 +3,10 @@ import fs = require('fs');
 import glob = require('glob');
 import path = require('path');
 
-const languages: string[] = JSON.parse(fs.readFileSync('./src/data/languages.json').toString());
+const languages: string[] = JSON.parse(fs.readFileSync('./src/data/locales.json').toString());
 
 for (const lang of languages) {
-    PO.load('./src/data/locales/' + languages + '.po', (err, po) => {
+    PO.load('./src/data/locales/' + lang + '.po', (err, po) => {
 
         glob.sync('./src/data/templates/*.json').forEach((file) => {
 
@@ -19,7 +19,7 @@ for (const lang of languages) {
             let content = fs.readFileSync(file).toString();
 
             po.items.forEach((item) => {
-                const translated = item.msgstr.join('') === '' ? 
+                const translated = item.msgstr.join('') === '' ?
                     item.msgctxt : item.msgstr.join('');
 
                 if (typeof translated !== 'undefined') {
