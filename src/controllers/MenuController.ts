@@ -3,6 +3,7 @@ import { Controller, Get, Middleware } from '@overnightjs/core';
 import { checkLocale } from '../middlewares/checkLocale';
 import fs = require('fs');
 import path = require('path');
+import { Logger } from '@overnightjs/logger';
 
 export interface IMenu {
     name: string;
@@ -20,6 +21,11 @@ export interface IMenuWithChilds {
 @Controller('menu')
 export class MenuController {
 
+    /**
+     * Returning the menu according to the language id
+     *
+     * @param locale Language Id
+     */
     private getMenu(locale: string): IMenuWithChilds[] {
 
         const menuBuf = fs.readFileSync(path.join('./src/data/auto/', locale, 'menu.json'));
@@ -27,6 +33,17 @@ export class MenuController {
         const menu: IMenuWithChilds[] = JSON.parse(menuBuf.toString());
 
         return menu;
+    }
+
+    /**
+     * Returning last part of a long id
+     *
+     * @param id Long Id
+     */
+    private getPublicId(id: string) {
+        const splited = id.split('_');
+
+        return splited[splited.length - 1];
     }
 
     @Get(':locale/')
@@ -46,14 +63,14 @@ export class MenuController {
         });
     }
 
-    @Get(':locale/:menuId')
+    @Get(':locale/*')
     @Middleware(checkLocale)
     private showSubMenu(req: Request, res: Response) {
-        const menuId = req.params.menuId;
-
-        const splited = menuId.split('_');
+        const menuId = req.params[0];
+        const splited = menuId.split(/\/|\\/);
 
         let menu = this.getMenu(req.params.locale);
+
         let parent: IMenu = {
             name: '',
             id: '',
@@ -77,7 +94,7 @@ export class MenuController {
 
             parent = {
                 name: menu[number - 1].name,
-                id: menu[number - 1].id,
+                id: this.getPublicId(menu[number - 1].id),
                 parent: true,
                 childCount: menu[number - 1].childs.length,
             };
@@ -87,7 +104,7 @@ export class MenuController {
         }
 
         const filteredChilds: IMenu[] = menu.map((menuItem) => ({
-            id: menuItem.id,
+            id: this.getPublicId(menuItem.id),
             name: menuItem.name,
             parent: typeof menuItem.childs !== 'undefined',
             childCount: typeof menuItem.childs !== 'undefined' ? menuItem.childs.length : 0,
