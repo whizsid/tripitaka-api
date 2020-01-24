@@ -3,7 +3,6 @@ import { Controller, Get, Middleware } from '@overnightjs/core';
 import { checkLocale } from '../middlewares/checkLocale';
 import fs = require('fs');
 import path = require('path');
-import { Logger } from '@overnightjs/logger';
 
 export interface IMenu {
     name: string;
