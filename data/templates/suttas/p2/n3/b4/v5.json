@@ -1,0 +1,31 @@
+{
+  "id": "p2_n3_b4_v5",
+  "title": "\\{p2_n3_b4_v5\\}",
+  "sections": [
+    {
+      "title": "\\{p2_n3_b4_v5_s1\\}",
+      "id": "p2_n3_b4_v5_s1",
+      "paragraphs": [
+        {
+          "number": "330",
+          "content": "\\{p2_n3_b4_v5_s1_p1\\}",
+          "id": "p2_n3_b4_v5_s1_p1"
+        }
+      ],
+      "endingText": null
+    },
+    {
+      "title": "\\{p2_n3_b4_v5_s2\\}",
+      "id": "p2_n3_b4_v5_s2",
+      "paragraphs": [
+        {
+          "number": "331",
+          "content": "\\{p2_n3_b4_v5_s2_p1\\}",
+          "id": "p2_n3_b4_v5_s2_p1"
+        }
+      ],
+      "endingText": null
+    }
+  ],
+  "ending": "\\{p2_n3_b4_v5_e\\}"
+}

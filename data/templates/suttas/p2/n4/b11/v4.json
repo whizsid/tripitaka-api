@@ -1,0 +1,29 @@
+{
+  "id": "p2_n4_b11_v4",
+  "title": "\\{p2_n4_b11_v4\\}",
+  "sections": [
+    {
+      "title": "\\{p2_n4_b11_v4_s1\\}",
+      "id": "p2_n4_b11_v4_s1",
+      "paragraphs": [
+        {
+          "number": "502",
+          "content": "\\{p2_n4_b11_v4_s1_p1\\}",
+          "id": "p2_n4_b11_v4_s1_p1"
+        },
+        {
+          "number": "503-511",
+          "content": "\\{p2_n4_b11_v4_s1_p2\\}",
+          "id": "p2_n4_b11_v4_s1_p2"
+        },
+        {
+          "number": "512-671",
+          "content": "\\{p2_n4_b11_v4_s1_p3\\}",
+          "id": "p2_n4_b11_v4_s1_p3"
+        }
+      ],
+      "endingText": "\\{p2_n4_b11_v4_s1_e\\}"
+    }
+  ],
+  "ending": "\\{p2_n4_b11_v4_e\\}"
+}

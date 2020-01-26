@@ -1,0 +1,36 @@
+{
+  "id": "p2_n4_b9_v8",
+  "title": "\\{p2_n4_b9_v8\\}",
+  "sections": [
+    {
+      "title": "\\{p2_n4_b9_v8_s1\\}",
+      "id": "p2_n4_b9_v8_s1",
+      "paragraphs": [
+        {
+          "number": "73",
+          "content": "\\{p2_n4_b9_v8_s1_p1\\}",
+          "id": "p2_n4_b9_v8_s1_p1"
+        },
+        {
+          "number": "74-81",
+          "content": "\\{p2_n4_b9_v8_s1_p2\\}",
+          "id": "p2_n4_b9_v8_s1_p2"
+        }
+      ],
+      "endingText": null
+    },
+    {
+      "title": "\\{p2_n4_b9_v8_s2\\}",
+      "id": "p2_n4_b9_v8_s2",
+      "paragraphs": [
+        {
+          "number": "82",
+          "content": "\\{p2_n4_b9_v8_s2_p1\\}",
+          "id": "p2_n4_b9_v8_s2_p1"
+        }
+      ],
+      "endingText": null
+    }
+  ],
+  "ending": "\\{p2_n4_b9_v8_e\\}"
+}

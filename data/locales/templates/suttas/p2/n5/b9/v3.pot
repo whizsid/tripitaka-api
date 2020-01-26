@@ -1,0 +1,216 @@
+"Project-Id-Version: Tripitaka-API-1.0\n"
+"Last-Translator: Community\n"
+"Language-Team: WhizSid <whizsid@aol.com>\n"
+"POT-Creation-Date: 2020-01-17 23:42-0500\n"
+"PO-Revision-Date: 2020-01-17 23:42-0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: si_LK\n"
+
+#. Section Title
+msgctxt "p2_n5_b9_v3_s1"
+msgid "1. අඤ්ඤරා (අප්‍රකට) සාමා ථෙරී ගාථා"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s1_p1"
+msgid "“පැවිදිවී විසිපස් වසක් වනතෙක් මා සිතට සන්සිඳීමක් ලැබුණු බවෙක් නම් කිසි කලෙක නොදනිමි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s1_p2"
+msgid "එසේ සිත සැනසීමක් නොලැබ සිත වසඟ නොවූවා බුදුබණ සිහිකර ඉන් කලකිරීමට පැමිණියෙමි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s1_p3"
+msgid "බොහෝ දුකින් මිරිකෙමින් වීර්යයෙහි ඇළුණු මට නිවන් ලැබිණ. බුද්ධාවවාදය කෙළෙමි. තණ්හාව වියලා අදට සත්දවසක් විය."
+msgstr ""
+
+#. Ending Text
+msgctxt "p2_n5_b9_v3_s1_e"
+msgid "සිත සැනසීම නොලැබ සිත එකඟ නොවූවා නව වරක් වෙහෙරෙන් පිටවීමි.”"
+msgstr ""
+
+#. Section Title
+msgctxt "p2_n5_b9_v3_s2"
+msgid "2. උත්තමාථෙරීගාථා"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s2_p1"
+msgid "“උත්තමා ථෙරී ගාථා"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s2_p2"
+msgid "“මා විසින් ඇදහිය යුතු වචන ඇති පටාචාරා නම් රහත් භික්ෂුණියක් වීද, ඈ වෙතට පැමිණීමි. ඕතොම ස්කන්ධායතන ධාතූන් ගැන මට දහම් දෙසුවාය."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s2_p3"
+msgid "“මට ඇය අනුශාසනා කළ පරිදි ඇගේ ධර්මය අසා සත් දවසක් එක අරමිණියෙන් සිටියෙමි. අටවෙනි දිනයෙහි අඳුරු නසා පය දිග හැරියෙමි.”"
+msgstr ""
+
+#. Ending Text
+msgctxt "p2_n5_b9_v3_s2_e"
+msgid "... උත්තමා ථෙරී...."
+msgstr ""
+
+#. Section Title
+msgctxt "p2_n5_b9_v3_s3"
+msgid "3. (අප්‍රකට) උත්තමා ථෙරී ගාථා"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s3_p1"
+msgid "“යම් මේ අවබෝධයේ අංග සතක් වේද බුදුන් දෙසූසේ ඒ සියල්ල මා විසින් වඩන ලදහ."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s3_p2"
+msgid "ශුන්‍යතා අනිමිත්ත යන සමාපත්ති දෙක කැමතිසේ ලබන්නාවූ නිවනෙහි ඇලුනු බුදුන්ගේ උරෙහි වැඩුන දුවක් වීමි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s3_p3"
+msgid "දෙව් මිනිස් සියළු කාමයෝ සිඳින ලදහ. උපදනා සසර ගෙවිණි. මින් මතු නැත වීමක් නැත.”"
+msgstr ""
+
+#. Ending Text
+msgctxt "p2_n5_b9_v3_s3_e"
+msgid "... අපරා උත්තමා ථෙරී...."
+msgstr ""
+
+#. Section Title
+msgctxt "p2_n5_b9_v3_s4"
+msgid "4. දන්තිකා ථෙරී ගාථා"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s4_p1"
+msgid "“දවල් විවේකයෙන් නැගිටියේ ගිජුකුළු පව්වෙහි දියෙහි ගැලී ගොඩනැගුණු ඇතෙකු ගංතෙර දිටිමි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s4_p2"
+msgid "පුරුෂයෙක් අකුස්ස ගෙන පිටට නැගීමට පය දෙවයි ඉල්ලයි. එවිට හස්තියා පය දිගු කෙළේය. ඉන් ඔහු පිටට නැගිණි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s4_p3"
+msgid "“නොදැමුනාවූ, පසුව හික්මවනලද, මිනිසුන් වසයට ගිය ඌ දැක ඉන්පසුව සිත එකමුතු කෙළෙමි.”"
+msgstr ""
+
+#. Ending Text
+msgctxt "p2_n5_b9_v3_s4_e"
+msgid "... දන්තිකා ථෙරී...."
+msgstr ""
+
+#. Section Title
+msgctxt "p2_n5_b9_v3_s5"
+msgid "5. උබ්බරී ථෙරී ගාථා"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s5_p1"
+msgid "“උබ්බරිය, දුව ජීව, කියා වනමැද හිඳ හඬන්නෙහිය, තමන් ගැන තේරුම් ගනුව. ජීව නම් සුවාසූ දහසක් සියළු දූවරු මේ සොහොනෙහිම දවන ලදහ. ඔවුන් අතුරෙන් කවරක උදෙසා දුක්වෙහිද?"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s5_p2"
+msgid "හදවත ඇසුරු කළ දැකීමට නොහැකි හුලක්වූ ශෝකය ඒකාන්තයෙන් ඇද දැමීය. යම් හෙයකින් ශෝකයෙන් යුත් මගේ අනිත්‍ය ශොකය පහ කෙළේය."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s5_p3"
+msgid "“එහෙයින් ඒ මම උපුටා හල හුල් ඇත්තී, ශොක නැත්තී පිරිනිවියා වෙමි. මුනිවරය, බුදුන් දහම් සඟුන් සරණ කොට යමි.”"
+msgstr ""
+
+#. Ending Text
+msgctxt "p2_n5_b9_v3_s5_e"
+msgid "... උබ්බිරී ථෙරී...."
+msgstr ""
+
+#. Section Title
+msgctxt "p2_n5_b9_v3_s6"
+msgid "6. සුක්කා ථෙරී ගාථා"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s6_p1"
+msgid "“බුදුබණ දෙසන සුක්කා භික්ෂුණිය වෙතට යමෙක් නොපැමිණෙත්ද, ඒ මේ රජගහවැසියෝ මී බීවන් මෙන් හිඳිති."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s6_p2"
+msgid "නෛයාර්නිකවූ අමෘත රසය වගුරුවන ඕජාවත්වූ එයද මගීහු වැහි දිය මෙන්, නුවණැත්තෝ ඉතා ආදරයෙන් බොත්."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s6_p3"
+msgid "“සුක්කාවෙනි, පවිත්‍ර ධර්මයෙන් යුක්තව ඇළුම් නැතිව එකඟ සිත්ව සේනා සහිත කෙලෙස් මරු දිනා මේ අන්තිම ශරීරය උසුලව.”"
+msgstr ""
+
+#. Ending Text
+msgctxt "p2_n5_b9_v3_s6_e"
+msgid "... සුක්කා ථෙරී...."
+msgstr ""
+
+#. Section Title
+msgctxt "p2_n5_b9_v3_s7"
+msgid "7. සේලා ථෙරී ගාථා"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s7_p1"
+msgid "“ලෝකයෙහි මිදීමක් නම් නැත. විවේකයෙන් කුමක් කෙරේද? කාම රුචීන් අනුභව කරව. පසුව පසුතැවිලි නොවෙව."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s7_p2"
+msgid "කාමයෝ ශරීර කොටන ආයුධයක් හා හුලක් වැනියහ. තා කියනා ඒ කාමරතිය මට නම් දැන් අරතියෙකි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s7_p3"
+msgid "සියල්ලෙහි තෘෂ්ණාව වනසන ලදී. මෝහ රාශිය පළන ලදී. මාරය, මෙසේ දනුව, පාපිය, තෝ නැසුණෙහිය.”"
+msgstr ""
+
+#. Ending Text
+msgctxt "p2_n5_b9_v3_s7_e"
+msgid "... සෙලා ථෙරී...."
+msgstr ""
+
+#. Section Title
+msgctxt "p2_n5_b9_v3_s8"
+msgid "8. සෝමා ථෙරී ගාථා"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s8_p1"
+msgid "“බුද්ධාදීන් විසින් ලැබිය යුතු ස්ථානයවූ, ලැබීමට දුෂ්කරවූ, යම් ස්ථානයක් වේද, එය දෑඟිලි නුවණ ඇති ස්ත්‍රියක විසින් ලැබිය නොහැකියි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s8_p2"
+msgid "සිත එකමුතු කළ ඥාණය පවත්නා සමයෙහි මනා කොට ධර්මයන් දක්නාවූ අපට ස්ත්‍රී බව කුමක් කෙරේද?"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v3_s8_p3"
+msgid "සියල්ලෙහි තෘෂ්ණාව වනසන ලදී. මෝහ රාශිය පළන ලදී. ලාමකය, මෙසේ දනුව, මාරය, තෝ නැසුණෙහිය.”"
+msgstr ""
+
+#. Ending Text
+msgctxt "p2_n5_b9_v3_s8_e"
+msgid "... සොමා ථෙරී...."
+msgstr ""
+
+#. Sutra Ending
+msgctxt "p2_n5_b9_v3_e"
+msgid "තිකනිපාතො නිට්ඨිතො."
+msgstr ""
+

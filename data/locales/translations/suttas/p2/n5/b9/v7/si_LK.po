@@ -1,0 +1,151 @@
+"Project-Id-Version: Tripitaka-API-1.0\n"
+"Last-Translator: Community\n"
+"Language-Team: WhizSid <whizsid@aol.com>\n"
+"POT-Creation-Date: 2020-01-17 23:42-0500\n"
+"PO-Revision-Date: 2020-01-17 23:42-0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: si_LK\n"
+
+#. Section Title
+msgctxt "p2_n5_b9_v7_s1"
+msgid "1. උත්තරා ථෙරී ගාථා"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s1_p1"
+msgid "“මේ මනුෂ්‍යයෝ මොහොල් ගෙණ ධාන්‍ය කොටති. අඹුදරුවන් වඩමින් ධනයද රැස්කරති."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s1_p2"
+msgid "“යමක්කොට පසු නොතැවේද ඒ බුද්ධ වචනයෙහි උත්සාහ කරව්. පා සෝදා එකත්පසෙක හිඳිව්."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s1_p3"
+msgid "“එකඟවූ ඉතා සන්සුන්වූ සිත නඟා වස්තූන් ආත්ම වශයෙන් නොව අනාත්ම වශයෙන් පිළිවෙළින් සිහිකරව්."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s1_p4"
+msgid "“මම ඒ පටාචාරා තෙරණියගේ අනුශාසනා වචනය අසා පා සෝදා එකත්පසෙක සිටියෙමි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s1_p5"
+msgid "“රාත්‍රි ප්‍රථම යාමයෙහි පෙර ජාති දැනීම ලදිමි. මැදි රෑ දිවැස ලදිමි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s1_p6"
+msgid "“අළුයම අඳුරු කඳ නැසීමි. තුන් නුවණ ලබා නැඟී සිටියෙමි. ඔබගේ අනුශාසනාව කරණලදී."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s1_p7"
+msgid "“තව්තිසා වැසි දෙවියෝ යුද්ධයෙන් දිනූ සක්රජ පිරිවරා සිටින්නාක් මෙන් ඔබ පිරිවරා සිටිමි. තුන් නුවණ ඇත්තී වෙමි. පව් දුරලීමි.”"
+msgstr ""
+
+#. Ending Text
+msgctxt "p2_n5_b9_v7_s1_e"
+msgid "... උත්තරා ථෙරී...."
+msgstr ""
+
+#. Section Title
+msgctxt "p2_n5_b9_v7_s2"
+msgid "2. චාලා ථෙරී ගාථා"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s2_p1"
+msgid "“සිහිය මනාව පිහිටුවා වඩනලද ඉන්ද්‍රිය ඇත්තාවූ භික්ෂුණිතොම සියළු සංස්කාරයන් සන්සිඳුනු සැපවූ නිවන් පදය අත්කෙළේය."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s2_p2"
+msgid "“කවරකු උදෙසා කෙස් මුඩු කෙළෙහිද? මෙහෙණියක මෙන් පෙණෙහිද, පාසාණ්ඩයන් රුචි නොකෙරෙහිද, මේ කුමකට මුළාව හැසිරෙහිද?"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s2_p3"
+msgid "“මින් බැහැරවූ පාසාණ්ඩවයෝ දෘෂ්ටීන් ඇසුරු කරති. ඔහු ධර්මය නොදනිති. ධර්මයෙහිත් දක්ෂයෝ නොවෙති."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s2_p4"
+msgid "“ශාක්‍ය වංශයෙහි උපන් කෙනෙකු හා සම නොවන බුදුවරයෙක් ඇත. හේ සියළු දෘෂ්ටීන් ඉක්මවන දුක්ය. දුක් හටගැන්මය දුක් නැතිකිරීමය. දුක් නැතිකිරීමේ උපායවූ ආර්ය අෂ්ටාංගික මාර්ගයද යන ධර්මය මට දෙසූහ."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s2_p5"
+msgid ""
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s2_p6"
+msgid "“ඒ මම උන්වහන්සේගේ වචනය අසා සස්නෙහි ඇලී වාසය කෙළෙමි. තුන් නුවණ ලබනලදී. සර්වඥ ශාසනය කරණලදී."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s2_p7"
+msgid "“සියල්ලෙහි තෘෂ්ණාව නසනලදී. අඳුරු රැසද පලන ලදී. මාරය එසේ දනුව, මාරය, තෝ නසන ලද්දෙහිය.”"
+msgstr ""
+
+#. Ending Text
+msgctxt "p2_n5_b9_v7_s2_e"
+msgid "... චාලා ථෙරී...."
+msgstr ""
+
+#. Section Title
+msgctxt "p2_n5_b9_v7_s3"
+msgid "3. උපචාලා ථෙරී ගාථා"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s3_p1"
+msgid "“සිහියෙන් යුක්තවූ නුවණ ඇස ඇත්තාවූ මඩනලද ඉන්ද්‍රියයන් ඇත්තාවූ, භික්ෂුණිතොම මහා පුරුෂයන් විසින් සෙව්නා ලද නිර්වාණපදය අවබෝධ කෙළේයි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s3_p2"
+msgid "“කුමක් හෙයින් ඉපදීම රුචි නොකෙළෙහිද? උපන්නේ පස්කම් සැප අනුභව කෙරෙයි. කාමරතීන් අනුභව කරව. පසුතැවිලි නොවෙව."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s3_p3"
+msgid "“උපන්නාට මරණය වෙයි. උපන්නේ අත් පා කන් නාසාදිය කැපීමවූ වධදීම්, සිර කිරීම්, ගහට යුත් දුකට පැමිණෙයි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s3_p4"
+msgid "“ශාක්‍ය කුලයෙහි උපන් නොපරදවන ලද්දාවූ සම්බුද්ධ කෙනෙක් ඇත. උන්වහන්සේ මට ජාතිය ඉක්මවන දුක්ය, දුක් හටගැනීමය. දුක් ඉක්මවීමය. දුක් නසන මෘදුවූ ආර්යෂ්ටාංගික මාර්ගය යන ධර්මය දෙසූසේක."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s3_p5"
+msgid ""
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s3_p6"
+msgid "“මම උන්වහන්සේගේ ධර්ම කථාව අසා සස්නෙහි ඇලීවාසය කෙළෙමි. තුන් නුවණ ලබන ලදී. සර්වඥ වචනය කරණලදී."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v7_s3_p7"
+msgid "“සියල්ලෙහි තෘෂ්ණාව නසනලදී. අඳුරු කඳ දුරලන ලදී. මාරය, එසේ දනුව, මාරය, තෝ නසන ලද්දෙහිය.”"
+msgstr ""
+
+#. Ending Text
+msgctxt "p2_n5_b9_v7_s3_e"
+msgid "... උපචාලා ථෙරී...."
+msgstr ""
+
+#. Sutra Ending
+msgctxt "p2_n5_b9_v7_e"
+msgid "සත්තකනිපාතො නිට්ඨිතො."
+msgstr ""
+

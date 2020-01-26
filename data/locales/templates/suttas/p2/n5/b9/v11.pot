@@ -1,0 +1,86 @@
+"Project-Id-Version: Tripitaka-API-1.0\n"
+"Last-Translator: Community\n"
+"Language-Team: WhizSid <whizsid@aol.com>\n"
+"POT-Creation-Date: 2020-01-17 23:42-0500\n"
+"PO-Revision-Date: 2020-01-17 23:42-0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: si_LK\n"
+
+#. Section Title
+msgctxt "p2_n5_b9_v11_s1"
+msgid "1. උප්පලවණ්ණා ථෙරී ගාථා"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v11_s1_p1"
+msgid "‘මව් දූ යන අපි දෙදෙන එකකුට භාර්යාවීමු. පෙර නුවූ ලොමුදැහැගන්වන මහත් සංවේගයක් මට පහළ විය."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v11_s1_p2"
+msgid "“කාමයෝ අපවිත්‍රය. දුගඳය. කටු සහිතය. යමක ගැලී මවු දූ දෙදෙනවූ අපි පුතුට සමාන භාර්යා වීද ඒ කාමයට නින්දාවේවා."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v11_s1_p3"
+msgid "“ඒ මම කාමයෙහි දොස් දැක නිර්භයවූ නිර්වාණය දැක්මට රජගහ නුවරදී ගිහිගෙන් නික්ම සස්නෙහි පැවිදිවීමි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v11_s1_p4"
+msgid "“පෙර ජාති දනිමි. දිවැස පිරිසිදු කෙළෙමි. පරසිත් දැකීමද දිව කණද පිරිසිදු කරණ ලදී."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v11_s1_p5"
+msgid "“මා විසින් ඍද්ධි විධි නුවණ ප්‍රත්‍යක්ෂ කරණ ලදී. පව් ගෙවීමට පැමිණියාය. උසස් දැනුම් සය අත්දුටුවාය. බුද්ධාවවාදය කරණ ලදී."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v11_s1_p6"
+msgid "“මම අසුන් සතරදෙනකු යෙදූ රථයක් ඍද්ධියෙන් මවාගෙණ ලොවට පිහිටවූ නොසෙල්වෙන බුදුන්ගේ සිරිපා වැඳ සිටියෙමි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v11_s1_p7"
+msgid "“තෝ අග දක්වා මනාව මල්පිපි රුකක් වෙතට පැමිණ තනිව සිටියෙහිය. නුඹට කිසිදු දෙවැනියක් නැත. ලද බොලඳ නුඹ සල්ලාලයන්ට බිය නොවෙහිද?"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v11_s1_p8"
+msgid "“සල්ලාලයෝ ලක්ෂයක් එක්ව ආවාහුද? මෙවැනි වන්නාහුය. ලෝමයකුත් නොසැලෙයි, නොවෙව්ලයි මාරය, නුඹ තනිව මට කුමක් කෙරෙහිද?"
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v11_s1_p9"
+msgid "“ඒ මම අතුරු දහන් වෙමි. නුඹේ කුසට හෝ පිවිසියෙමි. බැම අතර හෝ සිටිමි. එසේ සිටින මා නොදක්නෙහිය."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v11_s1_p10"
+msgid "“මම වසඟ කරගත් සිත් ඇත්තෙමි. සතර දියුණුව යහපත්ව වඩන ලදී. සිය දැනීම අත්දක්නා ලදී. බුදුන්ගේ ශාසනය කරණ ලදී."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v11_s1_p11"
+msgid "“කාමයෝ ස්කන්ධයන් කෙටීමට සැත් උල් වැනිය. තා කියන ඒ කාම ඇල්ම මට නම් දැන් නොඇල්මකි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b9_v11_s1_p12"
+msgid "“සියල්ලෙහි තෘෂ්ණාව වනසන ලදී. අඳුරු කඳ පළන ලදී. මාරය, මෙසේ දැනුව, පාපිය තෝ නැසුනේ වෙහි කීවාය.”"
+msgstr ""
+
+#. Ending Text
+msgctxt "p2_n5_b9_v11_s1_e"
+msgid "... උප්පලවණ්ණා ථෙරී...."
+msgstr ""
+
+#. Sutra Ending
+msgctxt "p2_n5_b9_v11_e"
+msgid "ද්වාදසනිපාතො නිට්ඨිතො."
+msgstr ""
+

@@ -1,0 +1,29 @@
+{
+  "id": "p2_n1_b1_v7",
+  "title": "\\{p2_n1_b1_v7\\}",
+  "sections": [
+    {
+      "title": "\\{p2_n1_b1_v7_s1\\}",
+      "id": "p2_n1_b1_v7_s1",
+      "paragraphs": [
+        {
+          "number": "378",
+          "content": "\\{p2_n1_b1_v7_s1_p1\\}",
+          "id": "p2_n1_b1_v7_s1_p1"
+        },
+        {
+          "number": "379",
+          "content": "\\{p2_n1_b1_v7_s1_p2\\}",
+          "id": "p2_n1_b1_v7_s1_p2"
+        },
+        {
+          "number": "380",
+          "content": "\\{p2_n1_b1_v7_s1_p3\\}",
+          "id": "p2_n1_b1_v7_s1_p3"
+        }
+      ],
+      "endingText": null
+    }
+  ],
+  "ending": "\\{p2_n1_b1_v7_e\\}"
+}

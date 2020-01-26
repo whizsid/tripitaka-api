@@ -1,0 +1,76 @@
+"Project-Id-Version: Tripitaka-API-1.0\n"
+"Last-Translator: Community\n"
+"Language-Team: WhizSid <whizsid@aol.com>\n"
+"POT-Creation-Date: 2020-01-17 23:42-0500\n"
+"PO-Revision-Date: 2020-01-17 23:42-0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: si_LK\n"
+
+#. Section Title
+msgctxt "p2_n5_b1_v4_s1"
+msgid "4. (සොපාක) කුමාර ප්‍රශ්න. "
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b1_v4_s1_p1"
+msgid "එක නම් කිම?-සියලු සත්වයෝ ආහාරය නිසා සිටින්නෝය."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b1_v4_s1_p2"
+msgid "දෙක නම් කිම?-නාමයද රූපයද යන දෙකය."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b1_v4_s1_p3"
+msgid "තුන නම් කිම?-තුන් වේදනාවෝය."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b1_v4_s1_p4"
+msgid "සතර නම් කිම?-සතර ආර්ය සත්‍යයෝයි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b1_v4_s1_p5"
+msgid "පස නම් කිම?-තෘෂ්ණා දෘෂ්ටි දෙකින් තදින් අල්වාගත් රූප, වෙදනා, සංඥා, සංස්කාර, විඤ්ඤාණ යන පසයි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b1_v4_s1_p6"
+msgid "සය නම් කිම?-තමා කෙරෙහිවූ චක්‍ෂුප්‍රසාද, ශ්‍රොත ප්‍රසාද, ඝ්‍රාණප්‍රසාද, ජිව්හාප්‍රසාද, කායප්‍රසාද, මනස යන සයයි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b1_v4_s1_p7"
+msgid "සත නම් කිම?-සති, ධම්මවිචය, විරිය, පීති, පස්සධි, සමාධි, උපෙක්ඛා යන සතර මාර්ගඥානය පිණිස පවත්නා බොජඣංග සතය."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b1_v4_s1_p8"
+msgid "අට නම් කිම?-සම්මාදිට්ඨි, සම්මාසංකප්ප, සම්මාවාචා, සම්මාකම්මන්ත, සම්මාආජීව, සම්මාවායාම, සම්මාසති, සම්මාසමාධි යන ආර්ය අෂ්ටාංගික මාර්ගයයි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b1_v4_s1_p9"
+msgid "නවය නම් කිම?-නානත්තකාය නානත්තසඤ්ඤී, නානත්තකාය එකත්තසඤ්ඤී, එකත්තකාය නානත්තසංඤී, එකත්තකාය එකත්තසඤ්ඤී. අසංඤී, ආකාසානඤ්චායතනූපග, විඤාණඤ්චායතනූපග, ආකිඤ්චඤඤායතනූපග, නෙවසඤඤානාසඤඤායතනූපග යන නවවිධි සත්‍වයෝයි."
+msgstr ""
+
+#. Paragraph
+msgctxt "p2_n5_b1_v4_s1_p10"
+msgid "දහය නම් කිම?-රහත්හුගේ අංග දහයයි, රහත් සම්මා දිට්ඨි, රහත් සම්මාසංකප්ප, රහත් සම්මාවාචා, රහත් සම්මා කම්මන්ත, රහත් සම්මාආජීව, රහත් සම්මාවායාම, රහත් සම්මාසති, රහත් සම්මාසමාධිය යන අටත් සම්මාඤාණ, සම්මාවිමුක්ති යන දෙකත් වෙත්."
+msgstr ""
+
+#. Ending Text
+msgctxt "p2_n5_b1_v4_s1_e"
+msgid "කුමාර ප්‍රශ්න නිමා විය."
+msgstr ""
+
+#. Sutra Ending
+msgctxt "p2_n5_b1_v4_e"
+msgid "කුමාර ප්‍රශ්න නිමා විය."
+msgstr ""
+
