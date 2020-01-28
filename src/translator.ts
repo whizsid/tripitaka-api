@@ -3,36 +3,77 @@ import fs = require('fs');
 import glob = require('glob');
 import path = require('path');
 
-const languages: string[] = JSON.parse(fs.readFileSync('./src/data/locales.json').toString());
+interface ILocale {
+    code: string;
+    name: string;
+}
+
+interface IPoItem {
+    msgctxt?: string;
+    msgid: string;
+    msgstr: string[];
+}
+
+const languages: ILocale[] = JSON.parse(
+    fs.readFileSync('./data/locales/available.json').toString(),
+);
 
 for (const lang of languages) {
-    PO.load('./src/data/locales/' + lang + '.po', (err, po) => {
+    console.log('Translating: ' + lang.name);
 
-        glob.sync('./src/data/templates/*.json').forEach((file) => {
+    let menuPO: IPoItem[] = [];
 
-            if (!fs.existsSync(path.join('./src/data/auto/', lang))) {
-                fs.mkdirSync(path.join('./src/data/auto/', lang));
-            }
+    glob.sync('./data/locales/translations/**/' + lang.code + '.po').forEach((file) => {
+        const poFilePath = path.dirname(path.relative('./data/locales/translations/', file));
 
-            const newFilePath = path.join('./src/data/auto/', lang, path.basename(file));
+        let template =
+            fs.readFileSync(path.join('./data/templates/', poFilePath + '.json')).toString();
 
-            let content = fs.readFileSync(file).toString();
+        PO.load(file, (err, po) => {
 
-            po.items.forEach((item) => {
-                const translated = item.msgstr.join('') === '' ?
-                    item.msgctxt : item.msgstr.join('');
 
-                if (typeof translated !== 'undefined') {
-                    content = content.replace(`\\\\\{${item.msgid}\\\\\}`, translated);
-                }
+            po.items.forEach((section) => {
+
+                const translated = typeof section.msgstr !== 'undefined'
+                    && section.msgstr.join().trim() !== '' ?
+                    section.msgstr.join('\n').trim() : section.msgid;
+
+                const escaped = JSON.stringify(translated);
+
+                template = template.replace(
+                    `\\\\{${section.msgctxt}\\\\}`,
+                    escaped.substr(1).substr(0, escaped.length - 2),
+                );
             });
 
-            if (fs.existsSync(newFilePath)) {
-                fs.unlinkSync(newFilePath);
+            if (poFilePath === 'menu') {
+                menuPO = po.items;
+            } else {
+                menuPO.forEach((section) => {
+                    const translated = typeof section.msgstr !== 'undefined'
+                        && section.msgstr.join().trim() !== '' ?
+                        section.msgstr.join('\n').trim() : section.msgid;
+
+                    const escaped = JSON.stringify(translated);
+
+                    template = template.replace(
+                        `\\\\{${section.msgctxt}\\\\}`,
+                        escaped.substr(1).substr(0, escaped.length - 2),
+                    );
+                });
             }
 
-            fs.writeFileSync(newFilePath, content);
-        });
+            const compiledFileName = path.join('./data/locales/auto/', poFilePath, lang.code + '.json');
 
+            fs.mkdirSync(path.dirname(compiledFileName), {
+                recursive: true,
+            });
+
+            fs.writeFileSync(
+                compiledFileName,
+                template,
+            );
+        });
     });
+
 }

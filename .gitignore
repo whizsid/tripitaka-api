@@ -1,5 +1,5 @@
 package-lock.json
 /build
 /node_modules
-/data/auto/
-!/data/auto/.gitkeep
+/data/locales/auto/
+!/data/locales/auto/.gitkeep
