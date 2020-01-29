@@ -3,7 +3,7 @@ import fs = require('fs');
 import glob = require('glob');
 import path = require('path');
 
-interface ILocale {
+export interface ILocale {
     code: string;
     name: string;
 }
@@ -19,12 +19,14 @@ const languages: ILocale[] = JSON.parse(
 );
 
 for (const lang of languages) {
-    console.log('Translating: ' + lang.name);
+    console.log('Compiling Language: ' + lang.name);
 
     let menuPO: IPoItem[] = [];
 
     glob.sync('./data/locales/translations/**/' + lang.code + '.po').forEach((file) => {
         const poFilePath = path.dirname(path.relative('./data/locales/translations/', file));
+
+        console.log(`Compiling File: ${poFilePath}`);
 
         let template =
             fs.readFileSync(path.join('./data/templates/', poFilePath + '.json')).toString();

@@ -1,5 +1,5 @@
 import * as bodyParser from 'body-parser';
-import * as controllers from './controllers';
+import * as controllers from './controllers/v1';
 import { Server } from '@overnightjs/core';
 import { Logger } from '@overnightjs/logger';
 

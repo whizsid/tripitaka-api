@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
 import { Controller, Get, Middleware } from '@overnightjs/core';
-import { checkLocale } from '../middlewares/checkLocale';
+import { checkLocale } from '../../middlewares/checkLocale';
 import fs = require('fs');
 import path = require('path');
 
@@ -17,7 +17,7 @@ export interface IMenuWithChilds {
     childs: IMenuWithChilds[];
 }
 
-@Controller('menu')
+@Controller('v1/menu')
 export class MenuController {
 
     /**
@@ -27,7 +27,7 @@ export class MenuController {
      */
     private getMenu(locale: string): IMenuWithChilds[] {
 
-        const menuBuf = fs.readFileSync(path.join('./src/data/auto/', locale, 'menu.json'));
+        const menuBuf = fs.readFileSync(path.join('./data/locales/auto/menu', locale + '.json'));
 
         const menu: IMenuWithChilds[] = JSON.parse(menuBuf.toString());
 
@@ -102,10 +102,18 @@ export class MenuController {
 
         }
 
-        const filteredChilds: IMenu[] = menu.map((menuItem) => ({
+        const filteredChilds: any[] = menu.map((menuItem) => ({
             id: this.getPublicId(menuItem.id),
             name: menuItem.name,
             parent: typeof menuItem.childs !== 'undefined',
+            implemented: typeof menuItem.childs === 'undefined' ?
+                fs.existsSync(path.join(
+                    './data/locales/auto/suttas/',
+                    menuId,
+                    this.getPublicId(menuItem.id),
+                    req.params.locale + '.json'))
+                : undefined
+            ,
             childCount: typeof menuItem.childs !== 'undefined' ? menuItem.childs.length : 0,
         }));
 

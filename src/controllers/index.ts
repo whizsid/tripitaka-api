@@ -1,2 +1,1 @@
-export {MenuController} from './MenuController';
-export {ContentController} from './ContentController';
+export v1 from './v1';
