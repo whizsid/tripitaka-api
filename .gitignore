@@ -1,4 +1,5 @@
 package-lock.json
+yarn.lock
 /build
 /node_modules
 /data/locales/auto/

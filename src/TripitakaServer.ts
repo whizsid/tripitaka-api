@@ -5,7 +5,7 @@ import { Logger } from '@overnightjs/logger';
 
 class TripitakaServer extends Server {
 
-    private readonly SERVER_STARTED = 'Example server started on port: ';
+    private readonly SERVER_STARTED = 'Tripitaka server started on port: ';
 
     constructor() {
         super(true);
@@ -27,7 +27,10 @@ class TripitakaServer extends Server {
 
     public start(port: number): void {
         this.app.get('*', (req, res) => {
-            res.send(this.SERVER_STARTED + port);
+            res.status(200).json({
+                success: true,
+                message: this.SERVER_STARTED + port,
+            });
         });
 
         this.app.listen(port, () => {
