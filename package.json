@@ -5,7 +5,7 @@
   "scripts": {
     "test": "none",
     "start-dev": "nodemon --config \"./nodemon.json\"/",
-    "build": "rm -rf ./build/ && tsc",
+    "build": "npm run translate && rm -rf ./build/ && tsc",
     "translate": "tsc src/translator.ts  --outDir build/ && node build/translator.js",
     "start": "node build/app.js"
   },
