@@ -1,4 +1,13 @@
 # tripitaka-api
+
+---
+<p align="center">
+	<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="Travis:Status"/></a>
+	<a href="https://github.com/whizsid/tripitaka-api"><img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square" alt="Code Style: Prettier"/></a>
+</p>
+
+---
+
 This is a self-hosting tripitaka API server. You can use this server for your tripitaka applications.
 
 ## Roadpath
@@ -114,3 +123,6 @@ Use [POEdit](https://poedit.net/) application to edit or create your translation
 
 All contributions are welcome. Please help us to add your language to the above list and spread tripitaka.
 
+## Sources
+
+Pitaka.lk - Winaya Pitaka (Sinhala)
